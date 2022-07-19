@@ -1,1 +1,1 @@
-# ComonoDigital-ReactNative-Sdk
+# ComonoDigital-React-Native
