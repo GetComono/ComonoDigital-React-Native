@@ -8,7 +8,8 @@ npm install react-native-com-address
 Also, install react-native-webview because it's a dependency for this package. Here's a link to their docs.
 
 ## Usage
-```import React, { useState } from 'react';
+``` Typescript
+import React, { useState } from 'react';
 
 import { StyleSheet, View, Text, TouchableOpacity } from 'react-native';
 import { Verifyaddress } from 'react-native-com-address';
@@ -73,3 +74,6 @@ const styles = StyleSheet.create({
   },
 });
 ```
+
+## Configuration Options
+
