@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
 
 
 ## Support
-If you're having trouble with Comono React or your integration, please reach out to us at support@comono.io. We're more than happy to help you out.
+If you're having trouble with Comono React or your integration, please reach out to us at hello@comono.io. We're more than happy to help you out.
 
 ## License
 [MIT](https://github.com/GetComono/comono-react-native/blob/main/LICENSE) for more information.
